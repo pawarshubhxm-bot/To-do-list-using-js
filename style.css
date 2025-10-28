@@ -131,17 +131,18 @@ body {
   width: 25px;
   border-radius: 50%;
 
-  border: 1px solid #c62323;
+  /* border: 1px solid #c62323;
   background-color: #c62323;
-  color: white;
+  color: white; */
 
-  /* border: 1px solid red;
+  border: 1px solid #d4d4d4;
   background-color: #d4d4d4;
-  color: rgb(255, 36, 36);
-  font-weight: 700; */
+  /* color: rgb(41, 139, 13); */
+  color: rgb(255, 0, 0);
+  font-weight: 800;
 
   font-size: large;
-  font-family: sans-serif;
+  font-family: cursive;
   position: absolute;
   top: 5px;
   right: 5px;
