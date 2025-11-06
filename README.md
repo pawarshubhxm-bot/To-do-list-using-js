@@ -20,7 +20,7 @@ It helps you plan your day, track tasks, and even roasts you (😂) if you try t
 | Technology | Purpose |
 |-------------|----------|
 | **HTML5** | Structure and layout |
-| **CSS3** | Styling and responsiveness |
+| **CSS3** | Styling |
 | **JavaScript (ES6)** | Logic and interactivity |
 
 ---
@@ -33,7 +33,6 @@ It helps you plan your day, track tasks, and even roasts you (😂) if you try t
 4. The app automatically updates the message below showing how many tasks remain.  
 5. If you try adding an empty task, it will humorously roast you with a random alert! 🤣  
 
----
 
-## 📂 Folder Structure
+
 
